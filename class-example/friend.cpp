@@ -1,6 +1,5 @@
 #include <asm-generic/errno.h>
 #include <iostream>
-#include <string>
 
 using namespace std;
 
